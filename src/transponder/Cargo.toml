@@ -1,0 +1,23 @@
+[package]
+name = "transponder"
+version = "0.0.0"
+authors = ["Jan David <jandavid@6a64.com>"]
+edition = "2018"
+
+description = """
+Transponder is an ambitious project to create a unified API for the session and
+telemetry data of modern racing simulations.
+"""
+
+readme = "README.md"
+repository = "https://github.com/nordsdk/transponder"
+license = "MIT OR Apache-2.0"
+keywords = ["api", "gaming"]
+categories = ["api-bindings", "asynchronous"]
+
+[badges]
+maintenance = { status = "actively-developed" }
+
+[dependencies]
+
+[dev-dependencies]
